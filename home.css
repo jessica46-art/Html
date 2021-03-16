@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+h1{
+    color:chocolate;
+    text-align: center;
+    display: inline;
+    font-style: italic;
+}
+nav{
+    text-align: center;
+}
+/* #image1{
+    text-align: right;
+}
+#image2{
+    text-align: left;
+} */
